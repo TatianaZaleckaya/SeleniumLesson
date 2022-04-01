@@ -2,7 +2,7 @@ package org.example.github;
 
 public enum DataLoginTest {
 
-    POSITIVE ("nekhaevna2212@gmail.com","MIStati2212"),
+    POSITIVE ("",""),
     INVALID_PASSWORD ("", "3r4g45gt"),
     INVALID_LOGIN("   ","");
 
